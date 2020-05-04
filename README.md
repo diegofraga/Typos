@@ -1,7 +1,7 @@
 # Typos
 
 
-T(n) = 
+T(n) = O(n)
 
 	static void isTypo(String word1,String word2) {
 		
